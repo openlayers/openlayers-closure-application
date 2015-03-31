@@ -1,0 +1,28 @@
+{
+  "name": "openlayers-closure-application",
+  "version": "0.0.1",
+  "description": "Closure-based OpenLayers 3 Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openlayers/openlayers-closure-application"
+  },
+  "keywords": [
+    "OpenLayers",
+    "Closure",
+    "closure-util",
+    "node"
+  ],
+  "author": "Éric Lemoine",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/openlayers/openlayers-closure-application/issues"
+  },
+  "homepage": "https://github.com/openlayers/openlayers-closure-application",
+  "dependencies": {
+    "openlayers": "^3.4.0"
+  }
+}

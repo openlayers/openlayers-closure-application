@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/openlayers/openlayers-closure-application",
   "dependencies": {
-    "openlayers": "^3.4.0"
+    "openlayers": "3.18.2",
+    "closure-util": "1.15.1"
   }
 }

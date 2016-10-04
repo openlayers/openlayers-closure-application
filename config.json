@@ -8,7 +8,9 @@
     "closure_entry_point": "app",
     "externs": [
       "node_modules/openlayers/externs/bingmaps.js",
+      "node_modules/openlayers/externs/cartodb.js",
       "node_modules/openlayers/externs/closure-compiler.js",
+      "node_modules/openlayers/externs/esrijson.js",
       "node_modules/openlayers/externs/geojson.js",
       "node_modules/openlayers/externs/proj4js.js",
       "node_modules/openlayers/externs/tilejson.js",
@@ -23,6 +25,7 @@
       "ol.ENABLE_WEBGL=false"
     ],
     "js": [
+      "node_modules/openlayers/src/ol/typedefs.js",
       "node_modules/openlayers/externs/olx.js",
       "node_modules/openlayers/externs/oli.js"
     ],
